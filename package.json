@@ -15,6 +15,7 @@
     "esbuild": "^0.15.5",
     "esbuild-rails": "^1.0.3",
     "local-time": "^2.1.0",
+    "ng-piao-liang-hanzi": "^1.4.1",
     "sass": "^1.54.5",
     "trix": "^2.0.0-beta.0",
     "turbolinks": "^5.2.0",
